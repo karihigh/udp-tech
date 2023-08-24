@@ -1,3 +1,6 @@
+
+![image](https://github.com/karihigh/udp-tech/assets/17555735/40897fc2-6e1b-4e87-bbd0-d1d69fa501c7)
+
 # Tecnologías para la creación y redes sociales
 > Segundo semestreo 2023
 
