@@ -11,7 +11,7 @@
 Este curso tiene como objetivo introducir los conceptos fundamentales de programación y su aplicación en el ámbito de la creatividad. El curso explorará temas como algoritmos, inteligencia artificial en la práctica creativa, y programación con JavaScript.
 
 ## Clases
-- [Clase 2 (22 de agosto)](https://github.com/karihigh/udp-tech/tree/main/Clase%202)
+- [Clase 2 (22 de agosto)](https://github.com/karihigh/udp-tech/blob/main/Clase%202/Resumen%20Clase%202.md)
 
 ### Organización
 
