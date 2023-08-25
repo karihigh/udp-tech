@@ -4,6 +4,7 @@
 ### Links importantes
 * [Documentación o referencia de la librería](https://p5js.org/es/reference/): Aquí está toda la información para entender cada "statement" o funciones de p5. 
 * [Editor online](https://editor.p5js.org/): p5 puede funcionar en cualquier parte, pero en esta clase ocuparemos el editor web de p5. 📍**Deben iniciar sesión para poder guardar y recuperar sus sketch.**
+* [Sketch](https://editor.p5js.org/karina.hyland/sketches/S6krjiMVL) con el que cerramos la tarde.
 
 
 ### Caracteres que vamos a ocupan
