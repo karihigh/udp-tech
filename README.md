@@ -2,10 +2,8 @@
 ![image](https://github.com/karihigh/udp-tech/blob/main/image.png)
 
 # Tecnologías para la creación y redes sociales
-> Segundo semestreo 2023
-
-> Escuela de Cine y Realización Audiovisual
-
+> Segundo semestre 2023\
+> Escuela de Cine y Realización Audiovisual\
 > Profesores: [Karina Hyland](https://karinahy.com/) y Cristián Freire
 
 
@@ -13,7 +11,7 @@
 Este curso tiene como objetivo introducir los conceptos fundamentales de programación y su aplicación en el ámbito de la creatividad. El curso explorará temas como algoritmos, inteligencia artificial en la práctica creativa, y programación con JavaScript.
 
 ## Clases
-- [Clase 2 (22 de agosto)]()
+- [Clase 2 (22 de agosto)](https://github.com/karihigh/udp-tech/tree/main/Clase%202)
 
 ### Organización
 
@@ -43,3 +41,4 @@ La asistencia mínima es del 70%. Se puede faltar 4 veces sin justificativo.
 8. Inteligencia artificial para medios audiovisuales
 
 ## Recursos y bibliografía
+*coming soon*
