@@ -12,11 +12,11 @@ Este curso tiene como objetivo introducir los conceptos fundamentales de program
 
 ### Encargos 
 
-# Encargo 1 (entrega 4/09)
-[E1_Instrucciones](https://github.com/karihigh/udp-tech/blob/063672587ce8133849ac801ae6a73d9da6d0dc56/E1_Instrucciones.pdf)
+* [Encargo 1: Sketch generativo](https://github.com/karihigh/udp-tech/tree/main/Encargo%201)
 
 ## Clases
 - [Clase 2 (22 de agosto)](https://github.com/karihigh/udp-tech/blob/main/Clase%202/Resumen%20Clase%202.md)
+- [Case 3 (29 de agosto)](https://github.com/karihigh/udp-tech/blob/710e1e3db6ed809833be3bbf63850ddd4bc32199/Clase%203/Resumen%20Clase%203.md)
 
 ### Organización
 
