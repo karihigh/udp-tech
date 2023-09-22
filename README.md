@@ -45,5 +45,17 @@ La asistencia mínima es del 70%. Se puede faltar 4 veces sin justificativo.
 7. Animación procedural con JS.
 8. Inteligencia artificial para medios audiovisuales
 
-## Recursos y bibliografía
-*coming soon*
+## Recursos 
+
+### Links de interés
+
+- [Guía básica de la IA](https://atozofai.withgoogle.com/intl/es-419/)
+- [The Coding Train, Dan Shiffman: tutoriales de p5.js y más](https://thecodingtrain.com/)
+
+### Filmografía
+
+- [Ex Machina](https://www.youtube.com/watch?v=sNExF5WYMaA&ab_channel=UniversalPicturesUK)
+- Her
+- Blade Runner
+- [Lo and Behold: Reveries of the Connected World (2016)](https://www.youtube.com/watch?v=Zc1tZ8JsZvg&ab_channel=MagnoliaPictures%26MagnetReleasing)
+- [Coded Bias](https://www.youtube.com/watch?v=jZl55PsfZJQ&ab_channel=MIFF)
