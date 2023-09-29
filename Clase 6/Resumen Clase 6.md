@@ -1,5 +1,5 @@
-# Clase 6: Inteligencia artificial
-## 23 de septiembre 2023
+# Clase 6: Machine Learning
+## 26 de septiembre 2023
 
 ### Links útiles
 * [Teachable Machine](https://teachablemachine.withgoogle.com/): Plataforma de Google para entrenar modelos. 
